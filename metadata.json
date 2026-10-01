@@ -1,0 +1,7 @@
+{
+  "name": "欧洲华人 AI 智能平台",
+  "description": "欧洲华人 AI 生活、商业与社区超级平台：AI管家、智能搜索、房产、招聘、地图、文件OCR与政务导航",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
